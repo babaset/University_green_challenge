@@ -1,0 +1,305 @@
+{
+  "students": [
+    {
+      "student_id": "01",
+      "name": "Omer",
+      "points": 91,
+      "trust_score": 90,
+      "claims_log": [
+        {
+          "action": "Joined a campus clean-up",
+          "points": 25,
+          "status": "Admin-Approved",
+          "request_id": "1",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Video Projects/seafood-pizza (1).jpg",
+          "evidence_description": "khhk",
+          "evidence_hash": "8a7284f2cabf06031f745864a415da7ecba9ad37977a88d66b8be5a942adba03",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Used a reusable bottle",
+          "points": 5,
+          "status": "Rejected",
+          "request_id": "2",
+          "review_level": "Extra scrutiny",
+          "evidence_path": "C:/Users/nitro/Pictures/Video Projects/seafood-pizza (1).jpg",
+          "evidence_description": "adhg",
+          "evidence_hash": "8a7284f2cabf06031f745864a415da7ecba9ad37977a88d66b8be5a942adba03",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Recycled campus waste",
+          "points": 10,
+          "status": "Admin-Approved",
+          "request_id": "3",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Video Projects/seafood-pizza (1).jpg",
+          "evidence_description": "منتمن",
+          "evidence_hash": "8a7284f2cabf06031f745864a415da7ecba9ad37977a88d66b8be5a942adba03",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Turned off unused devices",
+          "points": 8,
+          "status": "Admin-Approved",
+          "request_id": "4",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/4.42_6bc00793.jpg",
+          "evidence_description": "صث",
+          "evidence_hash": "ad7bf345aa807f0464c3d5ef2289de69e0e279922dfd7a10f2cf97c4b7e37b71",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Joined a campus clean-up",
+          "points": 25,
+          "status": "Admin-Approved",
+          "request_id": "8",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Camera Roll/WIN_20260306_10_39_29_Pro.jpg",
+          "evidence_description": "افقاقا",
+          "evidence_hash": "c0c68e76f12bfa69fb649d6f6d8a396d810c32e394c9a68d7f45304ec136c4fe",
+          "created_at": "",
+          "reviewed_at": "2026-08-19 20:45",
+          "admin_note": ""
+        },
+        {
+          "action": "Used a reusable bottle",
+          "points": 5,
+          "status": "Admin-Approved",
+          "request_id": "12",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Mohammed Babasit (2).png",
+          "evidence_description": "khh",
+          "evidence_hash": "bf80034fe66266c811f3954d76dd8fc6d04f2c429a4d3e631cfde849da5bb5a8",
+          "created_at": "2026-08-19 20:47",
+          "reviewed_at": "2026-08-19 20:48",
+          "admin_note": ""
+        },
+        {
+          "action": "Recycled campus waste",
+          "points": 10,
+          "status": "Admin-Approved",
+          "request_id": "13",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/password epic.png",
+          "evidence_description": "www",
+          "evidence_hash": "d418af77d3ba6c6448fea33df937120cbd5ba06af7900726f5dabe522b9fb7bd",
+          "created_at": "2026-08-19 20:47",
+          "reviewed_at": "2026-08-19 20:48",
+          "admin_note": ""
+        },
+        {
+          "action": "Joined a campus clean-up",
+          "points": 25,
+          "status": "Rejected",
+          "request_id": "14",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-05-19 223946.png",
+          "evidence_description": "sssss",
+          "evidence_hash": "43d2aa166589fb03e415e88cc34425a2bed21f2cc7054fdca1713acf680e3512",
+          "created_at": "2026-08-19 20:49",
+          "reviewed_at": "2026-08-19 20:49",
+          "admin_note": "hhdjddddhdhdhd"
+        },
+        {
+          "action": "Turned off unused devices",
+          "points": 8,
+          "status": "Admin-Approved",
+          "request_id": "16",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-08-01 001151.png",
+          "evidence_description": "aa",
+          "evidence_hash": "1467cccdf1b86c217460fd1ca920e3c5d46c81499b7c7a37bb234555afc59acc",
+          "created_at": "2026-08-19 20:50",
+          "reviewed_at": "2026-08-19 20:52",
+          "admin_note": ""
+        }
+      ]
+    },
+    {
+      "student_id": "02",
+      "name": "Mohammed",
+      "points": 67,
+      "trust_score": 80,
+      "claims_log": [
+        {
+          "action": "Walked or cycled to class",
+          "points": 15,
+          "status": "Admin-Approved",
+          "request_id": "5",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Camera Roll/WIN_20250807_14_22_36_Pro.jpg",
+          "evidence_description": "sf",
+          "evidence_hash": "8f53e0ed59f94754153721dc3dc81c8e43c54a856353d9e320fae85989a4a420",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Joined a campus clean-up",
+          "points": 25,
+          "status": "Admin-Approved",
+          "request_id": "6",
+          "review_level": "Extra scrutiny",
+          "evidence_path": "C:/Users/nitro/Pictures/Camera Roll/WIN_20260306_10_39_23_Pro.jpg",
+          "evidence_description": "rgr",
+          "evidence_hash": "ad0c1951ffef73ddeebc2b8b018674db392d75fb5b1fb196824847af6c2e2a5b",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Used public transport to campus",
+          "points": 12,
+          "status": "Admin-Approved",
+          "request_id": "7",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Camera Roll/WhatsApp Image 2025-12-13 at 5.28.16 AM.jpeg",
+          "evidence_description": "eq",
+          "evidence_hash": "d14dbe04e7b6ff4c8752a61ea6c9dee0db95e82209f9b7bb1ab84c7f986fc7c8",
+          "created_at": "",
+          "reviewed_at": "",
+          "admin_note": ""
+        },
+        {
+          "action": "Walked or cycled to class",
+          "points": 15,
+          "status": "Admin-Approved",
+          "request_id": "10",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Saved Pictures/WhatsApp Image 2026-03-06 at 4.30.59 AM.jpeg",
+          "evidence_description": "k",
+          "evidence_hash": "cba411b577f51efcb73f7b4a28b75cb477c2f5129495129b4d28c334cee1f201",
+          "created_at": "2026-08-19 20:39",
+          "reviewed_at": "2026-08-19 20:46",
+          "admin_note": ""
+        },
+        {
+          "action": "Walked or cycled to class",
+          "points": 15,
+          "status": "Rejected",
+          "request_id": "11",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-04-15 205459.png",
+          "evidence_description": "scs",
+          "evidence_hash": "f324b499e7fdc725f625c064c2c1af6982e7be2951dbae366db789d52ef3d934",
+          "created_at": "2026-08-19 20:46",
+          "reviewed_at": "2026-08-19 20:46",
+          "admin_note": ""
+        }
+      ]
+    },
+    {
+      "student_id": "03",
+      "name": "Ali",
+      "points": 34,
+      "trust_score": 100,
+      "claims_log": [
+        {
+          "action": "Used public transport to campus",
+          "points": 12,
+          "status": "Admin-Approved",
+          "request_id": "9",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Saved Pictures/Screenshot_2026-02-20_023454-removebg-preview.png",
+          "evidence_description": "h",
+          "evidence_hash": "ea39b2f289552bb752008d72056d523dc1083f559af0b595c19487b7307a5575",
+          "created_at": "2026-08-19 20:39",
+          "reviewed_at": "2026-08-19 20:45",
+          "admin_note": ""
+        },
+        {
+          "action": "Used public transport to campus",
+          "points": 12,
+          "status": "Admin-Approved",
+          "request_id": "17",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-04-15 205345.png",
+          "evidence_description": "sds",
+          "evidence_hash": "cabd47c9f3e3b5c6719156515f44f6fc3d89efa1ffc5887338a6d2284f1456c5",
+          "created_at": "2026-08-19 20:50",
+          "reviewed_at": "2026-08-19 20:52",
+          "admin_note": ""
+        },
+        {
+          "action": "Recycled campus waste",
+          "points": 10,
+          "status": "Admin-Approved",
+          "request_id": "18",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-07-17 223430.png",
+          "evidence_description": "dkd",
+          "evidence_hash": "bb80af1e6919c9367457a574a96bc2804cd1cc0742ec45d1f07c5890fd57bdf1",
+          "created_at": "2026-08-19 20:51",
+          "reviewed_at": "2026-08-19 20:52",
+          "admin_note": ""
+        }
+      ]
+    },
+    {
+      "student_id": "04",
+      "name": "Ahmed",
+      "points": 43,
+      "trust_score": 100,
+      "claims_log": [
+        {
+          "action": "Joined a campus clean-up",
+          "points": 25,
+          "status": "Admin-Approved",
+          "request_id": "19",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-07-29 191856.png",
+          "evidence_description": "aa",
+          "evidence_hash": "e3f6522d6d42a4578f260e2385a3b08e2e42289c55033d621786c9c8a6224a53",
+          "created_at": "2026-08-19 21:08",
+          "reviewed_at": "2026-08-19 21:16",
+          "admin_note": ""
+        },
+        {
+          "action": "Recycled campus waste",
+          "points": 10,
+          "status": "Admin-Approved",
+          "request_id": "20",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-04-15 210206.png",
+          "evidence_description": "asaa",
+          "evidence_hash": "ba58a9851237f0d685120ee44fd81f4d6c027e6b771a332b8ce1894431d814ed",
+          "created_at": "2026-08-19 21:09",
+          "reviewed_at": "2026-08-19 21:16",
+          "admin_note": ""
+        },
+        {
+          "action": "Turned off unused devices",
+          "points": 8,
+          "status": "Admin-Approved",
+          "request_id": "21",
+          "review_level": "Standard review",
+          "evidence_path": "C:/Users/nitro/Pictures/Screenshots/Screenshot 2025-07-22 220553.png",
+          "evidence_description": "nbnbn",
+          "evidence_hash": "60223ef3b504d2956c504f2c14179be6b7a06b8020cc1dd50920f6886c831915",
+          "created_at": "2026-08-19 21:42",
+          "reviewed_at": "2026-08-19 21:51",
+          "admin_note": ""
+        }
+      ]
+    },
+    {
+      "student_id": "05",
+      "name": "Saleh",
+      "points": 0,
+      "trust_score": 100,
+      "claims_log": []
+    }
+  ],
+  "pending_request_ids": [],
+  "next_request_id": 22
+}
