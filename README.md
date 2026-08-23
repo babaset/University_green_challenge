@@ -36,3 +36,8 @@ image cannot be reused for another claim, even if its filename is changed.
 
 To reset the project completely, delete `green_challenge_data.json` while the
 application is closed.
+
+
+
+
+

@@ -81,7 +81,7 @@ def save_challenge_data(
         "next_request_id": next_request_id,
     }
     temporary_file = data_file.with_suffix(".tmp")
-    try:
+    try:        
         with temporary_file.open("w", encoding="utf-8") as file:
             json.dump(saved_data, file, ensure_ascii=False, indent=2)
         temporary_file.replace(data_file)

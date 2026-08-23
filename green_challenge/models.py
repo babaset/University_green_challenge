@@ -1,11 +1,11 @@
-"""Data structures for students and their eco-action claims."""
+
 
 from dataclasses import dataclass, field
 
 
 @dataclass
 class Claim:
-    """One eco-action submitted by a student for administrator review."""
+    
 
     action: str
     points: int
@@ -22,7 +22,7 @@ class Claim:
 
 @dataclass
 class Student:
-    """A registered student and their sustainability record."""
+   
 
     student_id: str
     name: str
@@ -33,7 +33,7 @@ class Student:
 
 @dataclass
 class PendingRequest:
-    """A claim waiting for an administrator's decision."""
+
 
     request_id: str
     student_id: str

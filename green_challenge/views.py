@@ -715,6 +715,9 @@ def build_admin_tab(app) -> None:
     note_card.pack(fill="x", pady=(0, 12), before=table_card)
     actions.pack_forget()
     actions.pack(fill="x", pady=(0, 12), before=table_card)
+    # Keep proof details and the evidence button above the expanding table.
+    evidence.pack_forget()
+    evidence.pack(fill="x", pady=(0, 12), before=table_card)
 
 
 def build_analytics_tab(app) -> None:

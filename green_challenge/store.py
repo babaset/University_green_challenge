@@ -1,8 +1,4 @@
-"""In-memory data and business rules for the green challenge.
 
-This file contains no Tkinter code. Keeping the rules here makes them easier
-to read, test, and later replace with a database if needed.
-"""
 
 from __future__ import annotations
 
@@ -18,14 +14,14 @@ from .persistence import DEFAULT_DATA_FILE, load_challenge_data, save_challenge_
 
 
 class ChallengeStore:
-    """Manage registered students, submitted claims, and review decisions."""
+   
 
     def __init__(self, data_file: Path | None = None):
         self.data_file = data_file or DEFAULT_DATA_FILE
         self.students, self.pending_requests, self.next_request_id = load_challenge_data(self.data_file)
 
     def register_student(self, name: str, student_id: str) -> Student:
-        """Add a student with zero points and a full trust score."""
+        
         clean_name = " ".join(name.split())
         clean_id = student_id.strip().upper()
 
@@ -48,7 +44,7 @@ class ChallengeStore:
         evidence_path: str,
         evidence_description: str,
     ) -> Claim:
-        """Create a pending claim and add it to the student's history."""
+        
         student = self.students.get(student_id)
         if student is None:
             raise ValueError("Please sign in as a registered student to submit a claim.")
@@ -128,7 +124,7 @@ class ChallengeStore:
         return request.claim
 
     def delete_pending_claim(self, request_id: str) -> Claim:
-        """Permanently remove one pending claim without changing scores."""
+        
         request = self.get_pending_request(request_id)
         if request is None:
             raise ValueError("That request is no longer pending.")
